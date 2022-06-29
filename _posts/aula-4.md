@@ -14,13 +14,17 @@ Todas as palavras em inglês de todos os exercícios deverão ser escritas da fo
 lápis, caneta, caderno, tablet, celular... não importa. O que importa é
 que devem ser escritas para o método funcionar.
 
+---
+
 ## CONTEÚDO
 
-• negação do verbo
+- negação do verbo:
 
 **don't** - não
 
-### === EXERCÍCIO 4 ===
+---
+
+### EXERCÍCIOS
 
 **Æ1** - Leia:
 

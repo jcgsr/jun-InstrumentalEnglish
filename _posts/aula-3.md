@@ -14,15 +14,17 @@ Todas as palavras em inglês de todos os exercícios deverão ser escritas da fo
 lápis, caneta, caderno, tablet, celular... não importa. O que importa é
 que devem ser escritas para o método funcionar.
 
+---
+
 ## CONTEÚDO
 
-• pessoas:
+- pessoas:
 
 **they** - eles/elas
 
 **we** - nós
 
-• verbos:
+- verbos:
 
 **want** - querem(os)
 
@@ -32,11 +34,13 @@ que devem ser escritas para o método funcionar.
 
 **have** - têm/temos
 
-• substantivo
+- substantivo:
 
 **change** - mudança
 
-### === EXERCÍCIOS ===
+---
+
+### EXERCÍCIOS
 
 **Æ1** - Leia:
 

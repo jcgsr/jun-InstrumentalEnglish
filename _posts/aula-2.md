@@ -14,27 +14,29 @@ Todas as palavras em inglês de todos os exercícios deverão ser escritas da fo
 lápis, caneta, caderno, tablet, celular... não importa. O que importa é
 que devem ser escritas para o método funcionar.
 
+---
+
 ## CONTEÚDO
 
-• verbos:
+- verbos:
 
 **do** - faço/faz/faça
 
 **have** - tenho/tem
 
-• demonstrativos:
+- demonstrativos:
 
 **this** - isso/esse(a)/este(a)
 
 **that** - aquele(a), aquilo
 
-• conjunções:
+- conjunções:
 
 **and** - e
 
 **but** - mas
 
-• substantivos
+- substantivos:
 
 **house** - casa
 
@@ -42,7 +44,9 @@ que devem ser escritas para o método funcionar.
 
 **voice** - voz
 
-### === EXERCÍCIOS ===
+---
+
+### EXERCÍCIOS
 
 **Æ1** - Leia:
 

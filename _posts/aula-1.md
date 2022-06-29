@@ -16,27 +16,29 @@ que devem ser escritas para o método funcionar.
 
 Todas as aulas são interligada, complementares. Por isso, caso faças alguma aula mais adiantada e não entendas alguma coisa, já sabes o motivo.
 
+Em nenhuma aula há explicação gramatical: só há vocabulários e exercícios. Caso queiras, acessa o site **[EnglishEasy](https://www.englisheasyfm.com.br/)** ou baixa o app **[Inglês Fundamental Maior](https://play.google.com/store/apps/details?id=com.jcgsr.inglesFundamentalMaior)** no Google Play.
+
 ## O QUE VOCÊ JÁ SABE SEM SABER
 
-### -tion = -ção
+- ### -tion = -ção
 
 information - informação
 
 solution - solução
 
-### -ty = -dade
+- ### -ty = -dade
 
 simplicity - simplicidade
 
 society - sociedade
 
-### -ly = -mente
+- ### -ly = -mente
 
 orally - oralmente
 
 globally - globalmente
 
-### -al = -al
+- ### -al = -al
 
 natural - natural
 
@@ -45,35 +47,37 @@ sexual - sexual
 Então (quase) todas as palavras com essas terminações em inglês você já
 sabia sem saber 😉
 
-\_\_
+---
 
 ## CONTEÚDO
 
-• pessoas (pronomes):
+- pessoas (pronomes):
 
 **I** - eu
 
 **you** - você
 
-• verbos:
+- verbos:
 
 **want** - quer(o)
 
 **need** - precisa(o) de
 
-• substantivos
+- substantivos:
 
 **water** - água
 
 **money** - dinheiro
 
-• artigos
+- artigos:
 
 **a/an** - um(a)
 
 **the** - o, a
 
-### === EXERCÍCIOS ===
+---
+
+### EXERCÍCIOS
 
 **Æ1** - Leia:
 
