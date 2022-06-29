@@ -1,13 +1,13 @@
 ---
 title: "Aula 2"
 excerpt: "Nessa aula: verbos (do, have), substantivos (house, car), demonstrativos (this, that), conjunções (and, but)"
-coverImage: "/assets/blog/hello-world/cover.jpg"
+coverImage: "/assets/blog/aula-2/cover.jpg"
 date: "2022-06-29"
 author:
   name: Jovane Rocha
   picture: "/assets/blog/authors/jo.jpeg"
 ogImage:
-  url: "/assets/blog/hello-world/cover.jpg"
+  url: "/assets/blog/aula-2/cover.jpg"
 ---
 
 Todas as palavras em inglês de todos os exercícios deverão ser escritas da forma que quiseres:
@@ -40,6 +40,8 @@ que devem ser escritas para o método funcionar.
 
 **car** - carro
 
+**voice** - voz
+
 ### === EXERCÍCIOS ===
 
 **Æ1** - Leia:
@@ -52,6 +54,8 @@ c) You have water.
 
 d) You have money.
 
+e) I have a voice.
+
 **Æ2** - Leia:
 
 a) I have a house.
@@ -61,6 +65,8 @@ b) I have a car.
 c) You have a house.
 
 d) You have a car.
+
+e) You have a voice.
 
 **Æ3** - Passe para o inglês:
 
@@ -72,7 +78,9 @@ c) faço
 
 d) faz
 
-ε) mas
+e) mas
+
+f) voz
 
 **Æ4** - Passe para o inglês:
 
@@ -84,15 +92,19 @@ c) Eu faço isso.
 
 d) Eu faço aquilo.
 
+e) Eu tenho uma voz.
+
+f) Você tem uma voz.
+
 **Æ5** - Leia:
 
-a) I have a house and a car.
+a) I have a house and a car and a voice.
 
-b) I have money, and I have water.
+b) I have money, and you have water.
 
-c) You have water, and you have this.
+c) You have water, and you have this voice.
 
-d) You have the house, but I have the car.
+d) You have the house, but I have the car and the voice.
 
 **Æ6** - Passe para o inglês:
 
@@ -103,3 +115,5 @@ b) Faça aquilo.
 c) Eu faço isso e você faz aquilo.
 
 d) Eu preciso disso mas você precisa daquilo.
+
+e) Você tem uma voz e eu tenho uma voz.

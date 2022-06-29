@@ -1,13 +1,13 @@
 ---
 title: "Aula 3"
 excerpt: "Nessa aula: pronomes (they, we), verbos (want, need,  do, have)."
-coverImage: "/assets/blog/preview/cover.jpg"
+coverImage: "/assets/blog/aula-3/cover.jpg"
 date: "2022-06-26T20:39:07.322Z"
 author:
   name: Jovane Rocha
   picture: "/assets/blog/authors/jo.jpeg"
 ogImage:
-  url: "/assets/blog/preview/cover.jpg"
+  url: "/assets/blog/aula-3/cover.jpg"
 ---
 
 Todas as palavras em inglês de todos os exercícios deverão ser escritas da forma que quiseres:
@@ -31,6 +31,10 @@ que devem ser escritas para o método funcionar.
 **do** - fazem(os)
 
 **have** - têm/temos
+
+• substantivo
+
+**change** - mudança
 
 ### === EXERCÍCIOS ===
 
@@ -60,17 +64,23 @@ k) We do that.
 
 l) We do this.
 
+m) We need a change.
+
+n) You need a change.
+
+o) I need a change.
+
 **Æ2** - Leia:
 
 We want this house, but they want that house. We need that money and
-that water. They have a car and a house. The water. The house. A car. We
-want water. We need water and they need water. We do this, and they do
-that. I do this! You do that!
+that water. They have a car and a house. The water. The house. The change. A car. We
+want water. A change. We need water, and they need water, and I need a change. We do this, and they do
+that, and I do the change. I do this! You do that!
 
 **Æ3** - Escreva em inglês:
 
 Nós queremos aquela casa, mas eles querem essa casa. Nós precisamos desse dinheiro e
-daquela água. Eles querem um carro, mas eles precisam de uma casa.
+daquela água. Nós precisamos de mudança. Eles querem um carro, mas eles precisam de uma casa, e elas precisam de uma mudança.
 
-A água. A casa. Um carro. Nós
-queremos água. Nós precisamos de água e elas precisam de dinheiro. Nós fazemos isso. Eles querem esse. Elas querem aquela.
+A água. A casa. A mudança. Um carro. Nós
+queremos água. Nós precisamos de água e elas precisam de dinheiro. Nós fazemos isso. Eles querem essa mudança. Elas querem aquela mudança.

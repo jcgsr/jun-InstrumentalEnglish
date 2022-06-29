@@ -1,13 +1,13 @@
 ---
 title: "Aula 1"
 excerpt: "Nessa aula: pronomes (I, you), verbos (want, need), substantivos (water, money), artigos (a, an, the)."
-coverImage: "/assets/blog/dynamic-routing/cover.jpg"
+coverImage: "/assets/blog/aula-1/want.jpg"
 date: "2022-06-29"
 author:
   name: Jovane Rocha
   picture: "/assets/blog/authors/jo.jpeg"
 ogImage:
-  url: "/assets/blog/dynamic-routing/cover.jpg"
+  url: "/assets/blog/aula-1/want.jpg"
 ---
 
 Todas as palavras em inglês de todos os exercícios deverão ser escritas da forma que quiseres:
