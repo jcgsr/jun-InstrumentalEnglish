@@ -2,7 +2,7 @@
 title: "Aula 3"
 excerpt: "Nessa aula: pronomes (they, we), verbos (want, need,  do, have)."
 coverImage: "/assets/blog/aula-3/cover.jpg"
-date: "2022-06-26T20:39:07.322Z"
+date: "2022-06-29"
 author:
   name: Jovane Rocha
   picture: "/assets/blog/authors/jo.jpeg"
