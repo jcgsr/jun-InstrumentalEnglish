@@ -1,13 +1,15 @@
 ---
 title: "Aula 4"
 excerpt: "Nessa aula: negação do verbo (don't)."
-coverImage: "/assets/blog/aula-4/cover.jpeg"
+coverImage: "/assets/blog/aula-4/cover.jpg"
 date: "2022-06-29"
 author:
   name: Jovane Rocha
   picture: "/assets/blog/authors/jo.jpeg"
+  authorImage: "Filmbetrachter"
+  linkImage: "https://pixabay.com/pt/users/filmbetrachter-4391290/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4941768"
 ogImage:
-  url: "/assets/blog/aula-4/cover.jpeg"
+  url: "/assets/blog/aula-4/cover.jpg"
 ---
 
 Todas as palavras em inglês de todos os exercícios deverão ser escritas da forma que quiseres:

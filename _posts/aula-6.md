@@ -1,16 +1,18 @@
 ---
-title: "Aula 5"
-excerpt: "Nessa aula: interrogativa do verbo (Do ... ?)."
-coverImage: "/assets/blog/aula-5/cover.jpg"
-date: "2022-06-29"
+title: "Aula 6"
+excerpt: "Nessa aula: pronomes (he, she ,it), verbos (needs, has, does, want, work, eat, have), substantivos (bread, answer)."
+coverImage: "/assets/blog/aula-6/cover.png"
+date: "2022-06-30"
 author:
   name: Jovane Rocha
   picture: "/assets/blog/authors/jo.jpeg"
-  authorImage: "Julia Filirovska"
-  linkImage: "https://www.pexels.com/pt-br/foto/janela-embacada-com-ponto-de-interrogacao-4913769/"
+  authorImage: "Derrick Sherrill"
+  linkImage: "https://pixabay.com/users/derricksherrill-9763230/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4300451"
 ogImage:
-  url: "/assets/blog/aula-5/cover.jpg"
+  url: "/assets/blog/aula-6/cover.png"
 ---
+
+Imagem de [Derrick Sherrill](https://pixabay.com/users/derricksherrill-9763230/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4300451) no [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4300451)
 
 Todas as palavras em inglês de todos os exercícios deverão ser escritas da forma que quiseres:
 lápis, caneta, caderno, tablet, celular... não importa. O que importa é

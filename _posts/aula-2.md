@@ -1,11 +1,13 @@
 ---
 title: "Aula 2"
-excerpt: "Nessa aula: verbos (do, have), substantivos (house, car), demonstrativos (this, that), conjunções (and, but)"
+excerpt: "Nessa aula: verbos (do, have), substantivos (house, car), demonstrativos (this, that), conjunções (and, but)."
 coverImage: "/assets/blog/aula-2/cover.jpg"
 date: "2022-06-29"
 author:
   name: Jovane Rocha
   picture: "/assets/blog/authors/jo.jpeg"
+  authorImage: "Pavel Danilyuk"
+  linkImage: "https://www.pexels.com/pt-br/foto/conceitual-abstrato-coberto-tampado-8553778/"
 ogImage:
   url: "/assets/blog/aula-2/cover.jpg"
 ---

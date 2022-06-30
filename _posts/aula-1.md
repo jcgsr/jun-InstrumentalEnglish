@@ -6,6 +6,8 @@ date: "2022-06-29"
 author:
   name: Jovane Rocha
   picture: "/assets/blog/authors/jo.jpeg"
+  authorImage: "Brett Jordan"
+  linkImage: "https://www.pexels.com/pt-br/foto/inspiracao-motivacao-positividade-citar-7508024/"
 ogImage:
   url: "/assets/blog/aula-1/want.jpg"
 ---

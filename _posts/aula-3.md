@@ -6,6 +6,8 @@ date: "2022-06-29"
 author:
   name: Jovane Rocha
   picture: "/assets/blog/authors/jo.jpeg"
+  authorImage: "Pavel Danilyuk"
+  linkImage: "https://www.pexels.com/pt-br/foto/conceitual-abstrato-dentro-de-casa-interior-8553543/"
 ogImage:
   url: "/assets/blog/aula-3/cover.jpg"
 ---
