@@ -2,7 +2,7 @@
 title: "Aula 6"
 excerpt: "Nessa aula: pronomes (he, she ,it), verbos (needs, has, does, wants, work, eat, have), substantivos (bread, answer)."
 coverImage: "/assets/blog/aula-6/cover.png"
-date: "2022-06-30"
+date: "2022-06-30T09:55+03:00"
 author:
   name: Jovane Rocha
   picture: "/assets/blog/authors/jo.jpeg"
@@ -20,7 +20,7 @@ que devem ser escritas para o método funcionar.
 
 ## CONTEÚDO
 
-- pessoas
+- pessoas:
 
 **he** - ele
 
@@ -28,7 +28,7 @@ que devem ser escritas para o método funcionar.
 
 **it** - ele/ela (usado com coisas, animais)
 
-- verbos
+- verbos:
 
 **wants** - quer
 
@@ -44,7 +44,7 @@ que devem ser escritas para o método funcionar.
 
 **to have** - (para) ter
 
-- substantivos
+- substantivos:
 
 **bread** - pão
 

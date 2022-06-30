@@ -2,7 +2,7 @@
 title: "Aula 5"
 excerpt: "Nessa aula: interrogativa do verbo (Do ... ?)."
 coverImage: "/assets/blog/aula-5/cover.jpg"
-date: "2022-06-29"
+date: "2022-06-29T10:00+03:00"
 author:
   name: Jovane Rocha
   picture: "/assets/blog/authors/jo.jpeg"
