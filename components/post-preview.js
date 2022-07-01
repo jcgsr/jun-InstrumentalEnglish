@@ -16,11 +16,7 @@ export default function PostPreview({
   return (
     <div>
       <div className="mb-5">
-        <motion.div
-          whileHover={{ scale: 1.05 }}
-          whileTap={{ borderRadius: "20%" }}
-          className="mb-5"
-        >
+        <motion.div whileHover={{ scale: 1.05 }} className="mb-5">
           <CoverImage
             slug={slug}
             title={title}

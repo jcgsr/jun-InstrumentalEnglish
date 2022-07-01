@@ -10,9 +10,11 @@ export default function Intro() {
         Esse é o Curso Básico de Inglês Instrumental. Aqui aprenderás o
         vocabulário compreendido no nível A1 (Iniciante) de Inglês elaborado
         pelo{" "}
-        <a href="https://www.coe.int/en/web/common-european-framework-reference-languages">
-          Conselho Europeu
-        </a>{" "}
+        <u>
+          <a href="https://www.coe.int/en/web/common-european-framework-reference-languages">
+            Conselho Europeu
+          </a>{" "}
+        </u>{" "}
         de uma forma ortodoxa.
       </h4>
     </section>
