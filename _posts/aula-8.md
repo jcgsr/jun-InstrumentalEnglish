@@ -20,11 +20,11 @@ que devem ser escritas para o método funcionar.
 
 ## CONTEÚDO
 
-• verbo:
+- verbo:
 
 **to buy** - (para) comprar
 
-• interrogativa do verbo:
+- interrogativa do verbo:
 
 **does**
 
