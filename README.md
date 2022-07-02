@@ -1,8 +1,6 @@
 [![GitHub
 license](https://img.shields.io/github/license/jcgsr/jun-InstrumentalEnglish)](https://github.com/jcgsr/jun-InstrumentalEnglish/blob/main/LICENSE)
 
-[![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fjcgsr%2Fjun-InstrumentalEnglish)
-
 [![GitHub stars](https://img.shields.io/github/stars/jcgsr/jun-InstrumentalEnglish)](https://github.com/jcgsr/jun-InstrumentalEnglish/stargazers)
 
 <p align="center">
@@ -19,7 +17,7 @@ compreendido no nível A1 do Conselho Europeu.
 
 ## Preview
 
-Acessa [here](https://www.inglesinstrumental.blog.br):
+Acessa [here](https://www.inglesinstrumental.blog.br/):
 
 ## License
 

@@ -16,6 +16,10 @@ export default function Index({ allPosts }) {
     <>
       <Layout>
         <Head>
+          <meta
+            name="google-site-verification"
+            content="wAOtM_v1g6jBeJfSz-uBML78_R7KstUFwZjluGQlvzU"
+          />
           <title>Inglês Instrumental</title>
         </Head>
         <Container>
