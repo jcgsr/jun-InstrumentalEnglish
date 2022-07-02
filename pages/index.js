@@ -21,6 +21,11 @@ export default function Index({ allPosts }) {
             content="wAOtM_v1g6jBeJfSz-uBML78_R7KstUFwZjluGQlvzU"
           />
           <title>Inglês Instrumental</title>
+          <script
+            async
+            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2008019372085379"
+            crossorigin="anonymous"
+          ></script>
         </Head>
         <Container>
           <Intro />
