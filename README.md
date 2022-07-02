@@ -7,7 +7,7 @@ license](https://img.shields.io/github/license/jcgsr/jun-InstrumentalEnglish)](h
 
 <p align="center">
   <a href="https://www.inglesinstrumental.blog.br">
-    <img alt="Inglês Instrumental" src="https://images.pexels.com/photos/8038906/pexels-photo-8038906.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260" width="200" />
+    <img alt="Inglês Instrumental" src="https://inglesinstrumental.vercel.app/_next/image?url=%2Fassets%2Fblog%2Faula-1%2Fwant.jpg&w=1920&q=75" width="200" />
   </a>
 </p>
 <h1 align="center">
