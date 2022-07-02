@@ -28,6 +28,8 @@ que devem ser escritas para o método funcionar.
 
 **does**
 
+---
+
 ### EXERCÍCIOS
 
 **Æ1** - Leia:
