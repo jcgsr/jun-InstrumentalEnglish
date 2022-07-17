@@ -1,5 +1,5 @@
 ---
-title: "Aula 10"
+title: "A1 - Aula 10"
 
 excerpt: "Nessa aula: verbos (work, works, travel, travels), dias da semana e meses, preposições (on, in, since), advérbios (here, there)."
 coverImage: "/assets/blog/aula-10/cover.jpg"

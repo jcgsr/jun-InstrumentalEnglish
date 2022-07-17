@@ -1,5 +1,5 @@
 ---
-title: "Aula 2"
+title: "A1 - Aula 2"
 excerpt: "Nessa aula: verbos (do, have), substantivos (house, car), demonstrativos (this, that), conjunções (and, but)."
 coverImage: "/assets/blog/aula-2/cover.jpg"
 date: "2022-06-29T08:30+03:00"

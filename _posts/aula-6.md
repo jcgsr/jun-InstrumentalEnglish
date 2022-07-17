@@ -1,5 +1,5 @@
 ---
-title: "Aula 6"
+title: "A1 - Aula 6"
 excerpt: "Nessa aula: pronomes (he, she, it), verbos (needs, has, does, wants, work, eat, have), substantivos (bread, answer)."
 coverImage: "/assets/blog/aula-6/cover.png"
 date: "2022-06-30T09:55+03:00"

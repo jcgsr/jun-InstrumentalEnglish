@@ -1,5 +1,5 @@
 ---
-title: "Aula 8"
+title: "A1 - Aula 8"
 excerpt: "Nessa aula: verbo (to buy), interrogativa do verbo (Does...?)"
 coverImage: "/assets/blog/aula-8/cover.jpg"
 date: "2022-07-01T06:14+03:00"

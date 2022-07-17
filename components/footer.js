@@ -1,30 +1,41 @@
 import Container from "./container";
-import { EXAMPLE_PATH } from "../lib/constants";
+
+import Image from "next/image";
+import imageJo from "../public/assets/blog/authors/jo.jpeg";
 
 export default function Footer() {
   return (
     <footer className="bg-accent-1 border-t border-accent-2">
       <Container>
-        <div className="py-28 flex flex-col lg:flex-row items-center">
-          <h4 className="font-bold">
+        <div className="py-28  flex flex-col lg:flex-row items-center">
+          <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
+            <p>Sobre o autor,</p>{" "}
+            <a
+              href="https://jovane.netlify.app/"
+              className="mx-3 bg-black hover:bg-white hover:text-black border border-black text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0"
+            >
+              <Image
+                src={imageJo}
+                width={48}
+                height={48}
+                className="w-12 h-12 rounded-full mr-4"
+                alt="Jovane Rocha"
+              />
+              Jovane Rocha
+            </a>
+            <p>
+              Pernambucano do Recife, alvirrubro, pai (abestalhado) de Diana,
+              Beethoven, Mozart, Brenda, Nina e Mia. Vegetariano, defensor dos
+              direitos dos animais, enxadrista, schopenhauriano, socrático,
+              guitarrista (admirador da Les Paul), bebedor de whisky. Formado em
+              Letras Inglês pela Universidade Federal de Sergipe, pós-graduado
+              em Tradução pela Fanese. E ainda: web (front-end) developer.
+            </p>
+          </div>
+          <h4 className="font-bold mt-12 md:ml-8">
             &copy; 2022 - Inglês Instrumental <br />
             <p>Todo os Direitos Reservados</p>
           </h4>{" "}
-          <br />
-          {/* <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
-            <a
-              href="https://nextjs.org/docs/basic-features/pages"
-              className="mx-3 bg-black hover:bg-white hover:text-black border border-black text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0"
-            >
-              Read Documentation
-            </a>
-            <a
-              href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
-              className="mx-3 font-bold hover:underline"
-            >
-              View on GitHub
-            </a>
-          </div>*/}
         </div>
       </Container>
     </footer>

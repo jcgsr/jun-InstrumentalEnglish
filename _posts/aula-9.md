@@ -1,7 +1,7 @@
 ---
-title: "Aula 9"
+title: "A1 - Aula 9"
 
-excerpt: "Nessa aula: verbo (am, is, are), negativa do verbo (not, isn't, aren't), adjetivos (tall, short, old, young new, ugly, beautiful, strange), substantivos (people, man, woman)."
+excerpt: "Nessa aula: verbo (am, is, are), negativa do verbo (not, isn't, aren't), adjetivos (tall, short, old, young, new, ugly, beautiful, strange), substantivos (people, man, woman)."
 coverImage: "/assets/blog/aula-9/cover.jpg"
 date: "2022-07-01T07:05+03:00"
 author:

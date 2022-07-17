@@ -1,5 +1,5 @@
 ---
-title: "Aula 7"
+title: "A1 - Aula 7"
 excerpt: "Nessa aula: verbo (to live), negação do verbo (doesn't), conjunção (because), preposição (in)."
 coverImage: "/assets/blog/aula-7/cover.jpg"
 date: "2022-06-30T10:41+03:00"
