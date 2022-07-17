@@ -2,7 +2,7 @@
 title: "Aula 12"
 
 excerpt: "Nessa aula: países, nacionalidades, preposições (from, to),
-advérbio (where), demonstrativos (these, those)"
+advérbio (where), demonstrativos (these, those)."
 coverImage: "/assets/blog/aula-12/cover.gif"
 date: "2022-07-17T07:30+03:00"
 author:
