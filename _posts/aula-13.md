@@ -1,7 +1,7 @@
 ---
 title: "A1 - Aula 13"
 
-excerpt: "Nessa aula: cores"
+excerpt: "Nessa aula: cores."
 coverImage: "/assets/blog/aula-13/cover.gif"
 date: "2022-07-17T19:42+03:00"
 author:
