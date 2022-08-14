@@ -1,7 +1,7 @@
 ---
 title: "A1 - Aula 16"
 
-excerpt: "Nessa aula: família, verbo (there is/are), possessivo ('s)."
+excerpt: "Nessa aula: família, verbos (there is/are, to meet), possessivo ('s)."
 coverImage: "/assets/blog/aula-16/cover.jpg"
 date: "2022-08-14T06:29+03:00"
 author:
@@ -51,7 +51,7 @@ que devem ser escritas para o método funcionar.
 
 **Sister** - irmã
 
-- verbo:
+- verbos:
 
 **there to be** - haver
 
