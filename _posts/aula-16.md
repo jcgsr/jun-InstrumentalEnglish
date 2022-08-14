@@ -1,9 +1,9 @@
 ---
 title: "A1 - Aula 16"
 
-excerpt: ""
+excerpt: "Nessa aula: família, verbo (there is/are), possessivo ('s)."
 coverImage: "/assets/blog/aula-16/cover.jpg"
-date: "2022-08-13T20:53+03:00"
+date: "2022-08-14T06:29+03:00"
 author:
   name: Jovane Rocha
   picture: "/assets/blog/authors/jo.jpeg"
@@ -21,92 +21,81 @@ que devem ser escritas para o método funcionar.
 
 ## CONTEÚDO
 
-- partes do corpo:
+- família:
 
-**Body** - corpo
+**Parent** - mãe, pai
 
-**Hair** - cabelo
+**Parents** - pais
 
-**Head** - cabeça
+**Father** - pai
 
-**Eyes** - olhos
+**Dad** - papai
 
-**Ears** - orelhas
+**Mother** - mãe
 
-**Nose** - nariz
+**Mum** - mamãe
 
-**Mouth** - boca
+**Husband** - esposo, marido
 
-**Tooth** - dente
+**Wife** - esposa
 
-**Teeth** - dentes
+**Son** - filho
 
-**Arm** - braço
+**Daughter** - filha
 
-**Hand** - mão
+**Child** - filho(a), criança
 
-**Belly/Tummy** - barriga
+**Children** - filhos(as), crianças
 
-**Leg** - perna
+**Brother** - irmão
 
-**Foot** - pé
+**Sister** - irmã
 
-**Feet** - pés
+- verbo:
 
-- adjetivos (singular, plural, masculino e feminino têm a mesma forma):
+**there to be** - haver
 
-**big** - grande
+**there is** - há (singular)
 
-**small** - pequeno
+**there are** - há (plural)
 
--verbo:
+**to meet** - conhecer
 
-**to feel** - sentir
+- possessivo
 
-**feel** - sinto, sente, sentimos, sentem
-
-**feels** - sente
+**'s** - de, do(s), da(s)
 
 ### EXERCÍCIOS
 
 **Æ1** - Leia:
 
-a) Nose
+a) Father, mother, child
 
-b) Hand, Feet
+b) Parents, children, brother
 
-c) Mouth
+c) Sister, daughter, mum
 
-d) Arm
+d) Dad, family, parent
 
-e) Hair
+e) There is
 
-f) Body
+f) There are
 
-g) Tooth, teeth
+g) Bob's wife
 
-i) Belly
-
-j) Small foot
-
-k) Big mouth
+i) Jane's husband
 
 **Æ2** - Leia:
 
-This is my hand and that is your leg. That white hair is mine.
-This blak hair is yours. Do you want to feel his hand? We
-need our body. He wants to feel our hands. We need to feel small teeth,
-but they need to feel big teeth. Do you want to feel that old, blue
-hair? Does she need to feel those big feet? He doesn't need to feel that
-ugly, old, brown mouth. They want to have their beautiful nose.
-This head is his. That head is hers. Those feet are yours.
-This tummy is his. I feel. You feel. They feel. He feels and she feels. They feel.
+This is my father and that is your mother. That is his brother.
+This woman is my mother. Do you want to meet his sister? We
+need to meet your parents. He wants to meet their mother. We need to meet your mum and
+your dad. Do you want to meet my family? There are five people in my family. He is Bob's father and she is Jane's mother. They want to meet Jerry's parents. This man is Kramer's brother. There is a mum and there are three fathers. There is one sister and there are six brothers.
+There are four children. They are George's children. George's wife is that woman. Jane's husband is this man.
 
 **Æ3** - Escreva em inglês:
 
-Esta é a minha mão e aquela é a sua. Esse cabelo azul é meu.
-Este cabelo rosa é seu. Você quer sentir minha mão? Ela
-precisa do nosso corpo. Você quer sentir nossas mãos. Nós Precisamos sentir os grandes pés,
-mas eles precisam sentir os pequenos pés. Você quer sentir aquele velho, verde
-cabelo? Você precisa sentir aqueles grandes pé? Ele não precisa sentir. Ela precisa sentir? Eles querem ter seu bonito nariz. Esta cabeça é dele. Essa cabeça é dela. Esses pés são seus.
-Esta barriga é dele. Eu sinto. Você sente. Eles sentem. Ele sente e ela sente. Eles sentem. Ela sente? Você quer sentir? Você sente?
+Este é meu pai e aquela é sua mãe. Esse é o seu (dele) irmão.
+Essa homem é meu esposo. Quer conhecer a sua (dela) irmã? Nós
+precisamos conhecer seus pais. Ele quer conhecer o seus (deles) irmão. Eles precisam conhecer sua mãe e seu pai. Você quer conhecer minha família? Há oito pessoas na minha família. Ele é o pai de Bob e ela é a mãe de Jane. Eles querem conhecer os filhos de Jerry. Este homem é irmão de Kramer. Há uma mãe e há três pais. Há uma irmã e há seis irmãos.
+Há quatro filhos. Eles são filhos de George. A esposa de George é aquela mulher. O marido de Jane é este homem.
