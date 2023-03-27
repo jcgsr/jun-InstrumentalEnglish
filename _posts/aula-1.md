@@ -16,7 +16,7 @@ Todas as palavras em inglês de todos os exercícios deverão ser escritas da fo
 lápis, caneta, caderno, tablet, celular... não importa. O que importa é
 que devem ser escritas para o método funcionar.
 
-Todas as aulas são interligada, complementares. Por isso, caso faças alguma aula mais adiantada e não entendas alguma coisa, já sabes o motivo.
+Todas as aulas são interligadas, complementares. Por isso, caso faças alguma aula mais adiantada e não entendas alguma coisa, já sabes o motivo.
 
 Em nenhuma aula há explicação gramatical: só há vocabulários e exercícios. Caso queiras, acessa o site **[EnglishEasy](https://www.englisheasyfm.com.br/)** ou baixa o app **[Inglês Fundamental Maior](https://play.google.com/store/apps/details?id=com.jcgsr.inglesFundamentalMaior)** no Google Play.
 

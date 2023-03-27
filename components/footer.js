@@ -28,8 +28,9 @@ export default function Footer() {
               Beethoven, Mozart, Brenda, Nina e Mia. Vegetariano, defensor dos
               direitos dos animais, enxadrista, schopenhauriano, socrático,
               guitarrista (admirador da Les Paul), bebedor de whisky. Formado em
-              Letras Inglês pela Universidade Federal de Sergipe, pós-graduado
-              em Tradução pela Fanese. E ainda: web (front-end) developer.
+              Letras Inglês e mestrando (Letras) pela Universidade Federal de
+              Sergipe, pós-graduado em Tradução pela Fanese. E ainda: web
+              (front-end) developer.
             </p>
           </div>
           <h4 className="font-bold mt-12 md:ml-8">
