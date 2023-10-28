@@ -7,7 +7,7 @@ export default function Intro() {
         Inglês Instrumental
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        Esse é o Curso Básico de Inglês Instrumental. Aqui aprenderás o
+        Esse é o Curso Básico de Inglês Instrumental. Aqui, aprenderás o
         vocabulário compreendido no nível A1 (Iniciante) de Inglês elaborado
         pelo{" "}
         <u>
