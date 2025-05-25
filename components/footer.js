@@ -24,13 +24,14 @@ export default function Footer() {
               Jovane Rocha
             </a>
             <p>
-              Pernambucano do Recife, alvirrubro, pai (abestalhado) de Diana,
-              Beethoven, Mozart, Brenda, Nina e Mia. Vegetariano, defensor dos
-              direitos dos animais, enxadrista, schopenhauriano, socrático,
-              guitarrista (admirador da Les Paul), bebedor de whisky.
-              Pós-graduado em Tradução pela Fanese, formado em Letras Inglês e
-              mestre em Letras pela Universidade Federal de Sergipe. E ainda:
-              web (front-end) developer.
+              Pernambucano do Recife, alvirrubro, pai (abestalhado) de
+              Diana, Beethoven, Mozart, Brenda, Nina e Mia. Vegetariano,
+              defensor dos direitos dos animais, enxadrista,
+              schopenhauriano, socrático, guitarrista (admirador da Les
+              Paul), bebedor de whisky. Pós-graduado em Tradução pela
+              Fanese, formado em Letras Inglês e mestre em Letras pela
+              Universidade Federal de Sergipe. E ainda: web (front-end)
+              developer.
             </p>
           </div>
           <h4 className="font-bold mt-12 md:ml-8">
