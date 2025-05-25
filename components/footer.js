@@ -27,10 +27,10 @@ export default function Footer() {
               Pernambucano do Recife, alvirrubro, pai (abestalhado) de Diana,
               Beethoven, Mozart, Brenda, Nina e Mia. Vegetariano, defensor dos
               direitos dos animais, enxadrista, schopenhauriano, socrático,
-              guitarrista (admirador da Les Paul), bebedor de whisky. Formado em
-              Letras Inglês e mestrando (Letras) pela Universidade Federal de
-              Sergipe, pós-graduado em Tradução pela Fanese. E ainda: web
-              (front-end) developer.
+              guitarrista (admirador da Les Paul), bebedor de whisky.
+              Pós-graduado em Tradução pela Fanese, formado em Letras Inglês e
+              mestre em Letras pela Universidade Federal de Sergipe. E ainda:
+              web (front-end) developer.
             </p>
           </div>
           <h4 className="font-bold mt-12 md:ml-8">
