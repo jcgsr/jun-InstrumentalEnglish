@@ -3,7 +3,7 @@ title: "A1 - Aula 17"
 
 excerpt: "Nessa aula: pessoas (man, woman, boy, girl, friend, family,
 baby), verbos (see, look, can), advérbio (often)."
-coverImage: "/assets/blog/aula-17/pessoas.jpg"
+coverImage: "/assets/blog/aula-17/cover.jpg"
 date: "2025-05-25T08:14+03:00"
 Foto de Mark Dalton: https://www.pexels.com/pt-br/foto/pessoas-caminhando-no-mercado-439818/
 author:
@@ -12,7 +12,7 @@ author:
   authorImage: "Mark Dalton"
   linkImage: "https://www.pexels.com/pt-br/foto/pessoas-caminhando-no-mercado-439818/"
 ogImage:
-  url: "/assets/blog/aula-17/pessoas.jpg"
+  url: "/assets/blog/aula-17/cover.jpg"
 ---
 
 Todas as palavras em inglês de todos os exercícios deverão ser escritas da forma que quiseres:
