@@ -4,7 +4,6 @@ title: "A1 - Aula 19"
 excerpt: "Nessa aula: tempo (day, week, month, year, morning, afternoon, evening, night, today, tomorrow, yesterday)."
 coverImage: "/assets/blog/aula-19/cover.jpg"
 date: "2025-05-26T19:20+03:00"
-Foto de Markus Spiske: https://www.pexels.com/pt-br/foto/clima-placa-aviso-alerta-2990644/
 author:
     name: Jovane Rocha
     picture: "/assets/blog/authors/jo.jpeg"
