@@ -9,7 +9,7 @@ author:
     authorImage: "Gemini"
     linkImage: "https://gemini.google.com/?hl=pt-BR"
 ogImage:
-    url: "/assets/blog/aula-27/cover.jpg"
+    url: "/assets/blog/aula-28/cover.jpg"
 ---
 
 A partir da Aula 20, aparecem palavras que não fazem parte do
