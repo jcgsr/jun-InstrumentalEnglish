@@ -25,8 +25,6 @@ funcionar.
 
 - horas:
 
-## 🕒 Principais termos para dizer as horas em inglês
-
 **o'clock** - em ponto  
 **half past** - meia hora depois (e meia)  
 **quarter past** - quinze minutos depois da hora (e quinze)  
@@ -34,18 +32,15 @@ funcionar.
 **past** - depois (até 30 minutos)  
 **to** - para (de 31 a 59 minutos)
 
-## 🕓 Termos para períodos do dia
-
 **A.M.** - da manhã (00h00 até 11h59)  
 **P.M.** - da tarde/noite (12h00 até 23h59)
 
-## 🕘 Pergunta e resposta
-
-**What time is it?** - Que horas são?  
-**It's...** - São...
+**at** - à/às/ao
 
 ## ✅ Exemplos práticos
 
+**What time is it?** - Que horas são?  
+**It's...** - São...
 **It's 2 o'clock.** - São 2 horas em ponto  
 **It's half past 3.** - São 3 e meia  
 **It's quarter past 6.** - São 6 e quinze  

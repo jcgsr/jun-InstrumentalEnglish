@@ -41,6 +41,16 @@ que devem ser escritas para o método funcionar.
 
 **Yesterday** - ontem
 
+- preposições:
+
+**never** - nunca
+
+**sometimes** - às vezes
+
+**often** - frequentemente
+
+**always** - sempre
+
 ### EXERCÍCIOS
 
 **Æ1** - Leia:
@@ -51,10 +61,11 @@ b) Tomorrow, evening, month
 
 c) Yesterday, night, today
 
+d) never, always, often, sometimes
 **Æ2** - Leia:
 
-Today is a new day. This week I walk home. I this year, it is a good year. In the morning, I like to walk. The afternoon is for work, and in the evening, I like to wear my jacket. I often wear my pajamas at night. Today I feel different from yesterday, and I feel what comes tomorrow. I have ten dollars this morning. We have work this night. I have vacation this month. What comes tomorrow? The best part of my day is the evening.
+Today is a new day. This week I walk home. I like this year, it is a good year. In the morning, I always like to walk. The afternoon is never for work, and in the evening, I always like to wear my jacket. I often wear my pajamas at night. Today I feel different from yesterday, and I sometimes feel what comes tomorrow. I have ten dollars this morning. We have work this night. I have vacation this month. What comes tomorrow? The best part of my day is the evening.
 
 **Æ3** - Escreva em inglês:
 
-Hoje é um novo dia. Esta semana, vou a pé para casa. Este ano, é um bom ano. De manhã, gosto de caminhar. A tarde é para trabalhar e, à noite, gosto de usar meu casaco. Frequentemente, eu uso meu pijama à noite. Hoje me sinto diferente de ontem e sinto o que vem amanhã. Tenho dez dólares esta manhã. Temos trabalho esta noite. Tenho férias este mês. O que vem amanhã? A melhor parte do meu dia é a noite.
+Hoje é um novo dia. Esta semana, vou a pé para casa. Este ano, é um bom ano. De manhã, gosto de caminhar. A tarde é sempre para trabalhar e, à noite, às vezes gosto de usar meu casaco. Frequentemente, eu uso meu pijama à noite. Hoje me sinto diferente de ontem e nunca sinto o que vem amanhã. Tenho dez dólares esta manhã. Temos trabalho esta noite. Tenho férias este mês. O que vem amanhã? A melhor parte do meu dia é a noite.
