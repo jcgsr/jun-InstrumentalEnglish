@@ -9,7 +9,10 @@ export default function Extra() {
         <div>
           <ul className="mt-12 text-2xl">
             <li className="mb-6">
-              <a href="https://test-english.com/reading/a1/" target="_blank">
+              <a
+                href="https://test-english.com/reading/a1/"
+                target="_blank"
+              >
                 A1 Reading Tests
               </a>
             </li>
@@ -22,7 +25,10 @@ export default function Extra() {
               </a>
             </li>
             <li className="mb-6">
-              <a href="https://lingua.com/english/reading/" target="_blank">
+              <a
+                href="https://lingua.com/english/reading/"
+                target="_blank"
+              >
                 English Reading: English Texts for Beginners{" "}
               </a>
             </li>

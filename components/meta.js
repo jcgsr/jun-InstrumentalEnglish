@@ -37,6 +37,11 @@ export default function Meta() {
         content={`Blog de Inglês Instrumental que ensina todo o vocabulário referente ao nível A1 do Conselho Europeu. Feito com Next.js e ${CMS_NAME}.`}
       />
       <meta property="og:image" content={HOME_OG_IMAGE_URL} />
+      <script
+        async
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2008019372085379"
+        crossorigin="anonymous"
+      ></script>
     </Head>
   );
 }
